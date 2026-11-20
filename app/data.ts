@@ -14,7 +14,7 @@ export const personalInfo = {
   whatsapp: "+263 718 009 028",
   phone: "+263 780 601 391",
   github: "https://github.com/jrgift77-byte",
-  cvUrl: "/cv.pdf",
+  cvUrl: "https://canva.link/cw0jxxkly2kxwus",
 };
 
 export interface ExperienceItem {
