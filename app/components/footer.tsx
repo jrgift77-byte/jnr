@@ -113,7 +113,7 @@ export default function ContactFooter() {
 
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-between text-xs text-neutral-500 gap-2">
           <p>©  All rights reserved.</p>
-          <p>Software Developer • UI/UX Designer • Digital Creator</p>
+          <p>Software Developer • Backend Developer • Frontend Developer</p>
         </div>
       </div>
     </footer>
