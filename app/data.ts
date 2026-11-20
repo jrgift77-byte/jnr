@@ -1,11 +1,11 @@
 export const personalInfo = {
   brandName: "Gift.",
   fullName: "Gift Junior Ndlovu",
-  greeting: "👋 Hello, Welcome",
+  greeting: "Hello, Welcome",
   roles: [
     "Full-Stack Developer",
-    "UI/UX Designer",
-    "Digital Creator",
+    "Frontend Developer",
+    "Backend Developer",
   ],
   tagline: "Turning ideas into functional digital experiences.",
   bio: "I design and develop modern web applications that combine clean engineering, thoughtful design, and real-world problem-solving.",
@@ -105,7 +105,7 @@ export const experiences: ExperienceItem[] = [
     ],
     backTitle: "Core Areas of Contribution",
     backDescription:
-      "Web Development, UI/UX Design, Database Solutions, Application Design, Digital Branding, and Coding Education.",
+      "Web Development, UI/UX Design, Database Solutions, Application Design, and Coding Education.",
     tags: ["Figma", "Canva", "Google Maps API", "UI/UX Design"],
   },
 ];
